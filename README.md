@@ -144,7 +144,7 @@ NEWS_API_KEY = "your_newsapi_key"
 
 The full NLP pipeline is available on Kaggle:
 
-🔗 **[View Kaggle Notebook](https://www.kaggle.com/code/domamanaswini/nlp-a3-25517970)**
+🔗 **[View Kaggle Notebook](kaggle-notebook/NLP_Project.ipynb)**
 
 ### Notebook Sections:
 1. Setting Up Environment
