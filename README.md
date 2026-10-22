@@ -201,12 +201,3 @@ NO_REPEAT_NGRAM  = 3
 SAMPLE_SIZE      = 1000
 DEVICE           = 'cuda'  # Tesla T4 GPU on Kaggle
 ```
-
----
-
-## 👥 Group Members
-Manaswini Doma
-Brunda Varshini Katapalli
-
-
-
